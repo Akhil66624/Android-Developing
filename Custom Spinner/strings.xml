@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aug27SpinnerEx</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="games">
+        <item>Cricket</item>
+        <item>Hockey</item>
+        <item>Football</item>
+        <item>BasketBall</item>
+
+    </string-array>
+</resources>
