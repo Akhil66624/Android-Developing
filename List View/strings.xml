@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sep2ListView</string>
+    <string-array name="subjects">
+        <item >DS</item>
+        <item >OS</item>
+        <item >SP</item>
+        <item >SE</item>
+        <item >DBMS</item>
+    </string-array>
+</resources>
