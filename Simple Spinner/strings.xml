@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aug31</string>
+    <string-array name="cities">
+        <item >Amritsar</item>
+        <item>Jalandhar</item>
+        <item>Ludhiana</item>
+
+    </string-array>
+
+</resources>
